@@ -52,9 +52,12 @@ li {
 
 #innerDiv {
     margin: auto;
-    min-width: 40%;
-    max-width: 80%;
-    margin: 1em;
+    /* min-width: 40%;
+    max-width: 80%; */
+    min-width: 45%;
+    max-width: 45%;
+    /* margin: 1em; */
+    margin: .5em;
     padding: .5em;
     border: 1px solid royalblue;
     border-radius: .5em;
