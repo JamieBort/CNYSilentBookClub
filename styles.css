@@ -20,16 +20,18 @@ footer{
     font-size: 2em;
     margin: auto;
     display: inline;
-    padding-right: 3em;
+    /* padding-right: 3em; */
     /* border: 1px solid blueviolet; */
+    text-align: center;
 }
 
 #url {
     font-size: 2em;
     margin: auto;
-    padding-left: 3em;
+    /* padding-left: 3em; */
     /* display: inline; */
     /* border: 1px solid blueviolet; */
+    text-align: center;
 }
 
 li {
@@ -73,6 +75,7 @@ li {
     border: 1px solid royalblue;
     border-radius: .5em;
 }
+
 .newDiv {
     min-width: 80%;
     padding: 1em;
@@ -99,18 +102,35 @@ padding:.1em;
     h1 {
         font-size: 5em;
     }
+
     #middleDiv {
         /* border: 5px solid goldenrod; */
     }
+
     #innerDiv {
         min-width: 80%;
         padding: 1em;
         border: 2px solid royalblue;
     }
+
+.newDiv {
+    /* min-width: 80%;
+    padding: 1em; */
+    /* border: 2px solid royalblue; */
+}
+
     #url {
         font-size: 3em;
     }
     footer{
         padding-bottom: 3em;
     }
+
+#temp {
+    /* font-size: 2em;
+    margin: auto;
+    display: inline;
+    padding-right: 3em; */
+    /* border: 1px solid blueviolet; */
+}
 }
