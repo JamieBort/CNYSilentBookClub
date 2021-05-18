@@ -20,12 +20,14 @@ footer{
     font-size: 2em;
     margin: auto;
     display: inline;
+    padding-right: 3em;
     /* border: 1px solid blueviolet; */
 }
 
 #url {
     font-size: 2em;
     margin: auto;
+    padding-left: 3em;
     /* display: inline; */
     /* border: 1px solid blueviolet; */
 }
@@ -59,7 +61,7 @@ li {
     /* border: 1px solid green; */
 }
 
-#innerDiv {
+.innerDiv {
     margin: auto;
     /* min-width: 40%;
     max-width: 80%; */
@@ -70,6 +72,11 @@ li {
     padding: .5em;
     border: 1px solid royalblue;
     border-radius: .5em;
+}
+.newDiv {
+    min-width: 80%;
+    padding: 1em;
+    border: 2px solid royalblue;
 }
 
 a:hover{
