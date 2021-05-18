@@ -61,7 +61,7 @@ li {
     /* border: 1px solid green; */
 }
 
-.innerDiv {
+#innerDiv {
     margin: auto;
     /* min-width: 40%;
     max-width: 80%; */
