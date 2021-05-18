@@ -78,8 +78,8 @@ li {
 }
 
 .newDiv {
-    /* display: flex;
-    justify-content: space-around; */
+    display: flex;
+    justify-content: space-around;
     min-width: 80%;
     padding: 1em;
     /* border: 2px solid royalblue; */
@@ -114,6 +114,7 @@ a:hover {
         border: 2px solid royalblue;
     }
     .newDiv {
+        display: none;
         /* min-width: 80%;
     padding: 1em; */
         /* border: 2px solid royalblue; */
