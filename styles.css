@@ -114,7 +114,7 @@ a:hover {
         border: 2px solid royalblue;
     }
     .newDiv {
-        display: none;
+        display: block;
         /* min-width: 80%;
     padding: 1em; */
         /* border: 2px solid royalblue; */
