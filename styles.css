@@ -3,11 +3,12 @@ h1 {
     text-align: center;
 }
 
-h2{
+h2 {
     font-size: 2em;
     text-align: center;
 }
-footer{
+
+footer {
     text-align: center;
     /* border: 1px solid blue; */
 }
@@ -30,7 +31,7 @@ footer{
     /* text-align: center; */
 }
 
-#other{
+#other {
     font-size: 1.5em;
 }
 
@@ -38,11 +39,11 @@ li {
     font-size: 1.5em;
 }
 
-.this_week{
+.this_week {
     font-size: 1.5em;
 }
 
-.five_Ws{
+.five_Ws {
     /* border: 1px solid blue; */
     text-align: center;
     font-size: 2em;
@@ -77,17 +78,17 @@ li {
 }
 
 .newDiv {
-    display: flex;
-    justify-content: space-around;
+    /* display: flex;
+    justify-content: space-around; */
     min-width: 80%;
     padding: 1em;
     /* border: 2px solid royalblue; */
 }
 
-a:hover{
-padding:.1em;
-  background-color: rosybrown;
-  border-radius: .25em;
+a:hover {
+    padding: .1em;
+    background-color: rosybrown;
+    border-radius: .25em;
 }
 
 /* tablets below */
@@ -104,40 +105,35 @@ padding:.1em;
     h1 {
         font-size: 5em;
     }
-
     #middleDiv {
         /* border: 5px solid goldenrod; */
     }
-
     #innerDiv {
         min-width: 80%;
         padding: 1em;
         border: 2px solid royalblue;
     }
-
-.newDiv {
-    /* min-width: 80%;
+    .newDiv {
+        /* min-width: 80%;
     padding: 1em; */
-    /* border: 2px solid royalblue; */
-    /* text-align: center; */
-}
-
-    #url {
-        font-size: 3em;
+        /* border: 2px solid royalblue; */
+        /* text-align: center; */
     }
-    footer{
+    footer {
         padding-bottom: 3em;
         /* text-align: center; */
     }
-
-#temp {
-
-    font-size: 2em;
-    /* font-size: 2em;
+    #temp {
+        font-size: 3em;
+        /* font-size: 2em;
     margin: auto;
     display: inline;
     padding-right: 3em; */
-    /* border: 1px solid blueviolet; */
-    text-align: center;
-}
+        /* border: 1px solid blueviolet; */
+        text-align: center;
+    }
+    #url {
+        font-size: 3em;
+        text-align: center;
+    }
 }
