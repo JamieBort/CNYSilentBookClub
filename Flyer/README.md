@@ -1,3 +1,5 @@
 # Flyer
 
-ended up putting it in here https://drive.google.com/drive/folders/12zpfW7A7TLs_Pc-JGKF3LV_IfjYIJuZv instead.
+Final product found in this directory.
+
+Originals and drafts found [here](https://drive.google.com/drive/folders/16Vsq5npTAVgh1X9QOpREkSWH5SAxjz7O).
