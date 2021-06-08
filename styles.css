@@ -27,7 +27,7 @@ footer {
     /* text-align: center; */
 }
 
-#url {
+.footer_anchor{
     font-size: 2em;
     margin: auto;
     /* padding-left: 3em; */
@@ -82,7 +82,7 @@ li {
     border-radius: .5em;
 }
 
-.newDiv {
+#footer_div {
     display: flex;
     justify-content: space-around;
     min-width: 80%;
@@ -91,7 +91,6 @@ li {
 }
 
 a:hover {
-    padding: .1em;
     background-color: rosybrown;
     border-radius: .25em;
 }
@@ -118,7 +117,8 @@ a:hover {
         padding: 1em;
         border: 2px solid royalblue;
     }
-    .newDiv {
+    
+    #footer_div {
         display: block;
         /* min-width: 80%;
     padding: 1em; */
@@ -138,7 +138,8 @@ a:hover {
         /* border: 1px solid blueviolet; */
         text-align: center;
     }
-    #url {
+
+    .footer_anchor{
         font-size: 3em;
         text-align: center;
     }
