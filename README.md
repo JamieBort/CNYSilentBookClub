@@ -1,6 +1,7 @@
 # SilentBookClub
 
 Website URL: tiny.one/CNYSilentBookClub
+https://tiny.one/CNYSilentBookClub
 
 Created the tiny url using https://tinyurl.com/app/
 
